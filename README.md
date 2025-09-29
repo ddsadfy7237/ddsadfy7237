@@ -4,5 +4,8 @@ Hello world
 ## Career
 Hello world
 
-## Leink
+## Links
+Hello world
+
+## Course
 Hello world
