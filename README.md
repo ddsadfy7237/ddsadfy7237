@@ -1,11 +1,9 @@
 ## Introduction
-Hello world
 
-## Career
-Hello world
 
-## Links
-Hello world
+## Education
+-Bachelor of Science in Software Convergence, Yeungnam University (Expected 2027)
 
-## Course
-Hello world
+## Skills
+###Languages: C, C++, Java
+###Tool: Unity, Unreal, OpenGL, DirectX
