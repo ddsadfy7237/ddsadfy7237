@@ -1,6 +1,6 @@
 <p align="center">
 <img width="130" height="130" alt="Image" src="https://github.com/user-attachments/assets/1cb03935-acbb-48fd-ab4c-98e66be8241b" />
-</p>
+
 
 ## Introduction
 Junior majoring in Software Convergence at Yeungnam University.  
@@ -10,6 +10,5 @@ Interested in graphics programming with DirectX and OpenGL for game development.
 ## Education
 -Bachelor of Science in Software Convergence, Yeungnam University (Expected 2027)
 
-<p align="center">
 <img width="130" height="130" alt="Image" src="https://github.com/user-attachments/assets/c3297b58-6c98-43f0-aff4-9cccbe6d9438" />
 </p>
