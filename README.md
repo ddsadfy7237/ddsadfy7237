@@ -1,5 +1,6 @@
+<p align="center">
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1cb03935-acbb-48fd-ab4c-98e66be8241b" />
-
+</p>
 
 ## Introduction
 Junior majoring in Software Convergence at Yeungnam University.  
