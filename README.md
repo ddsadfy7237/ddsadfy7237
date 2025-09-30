@@ -17,5 +17,4 @@ Interested in graphics programming with DirectX and OpenGL for game development.
 <img width="130" height="130" alt="Image" src="https://github.com/user-attachments/assets/c3297b58-6c98-43f0-aff4-9cccbe6d9438" />
 </p>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
